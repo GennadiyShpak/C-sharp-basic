@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-namespace Homework_9
+﻿namespace Homework_9
 {
     class Homework_9_1
     {

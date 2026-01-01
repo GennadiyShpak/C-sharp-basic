@@ -1,2 +1,6 @@
 ﻿using Homework_9;
-Homework_9_1.FullNameComparison("Hennadii Shpak");
+using Homework_9._1.Solutions;
+
+var isTheSameStart = Homework_9_1.FullNameComparison("Hennadii Shpak");
+
+TextReport.GenerateTextReport();
