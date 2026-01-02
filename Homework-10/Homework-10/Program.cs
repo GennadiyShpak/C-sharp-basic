@@ -1,0 +1,3 @@
+﻿using Hangman;
+
+HangmanGame.InitGameSettings();
